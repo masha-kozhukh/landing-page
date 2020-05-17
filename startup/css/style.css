@@ -44,7 +44,7 @@ body{
     width: 100%;
     height:100vh;
 
-    background-image: url('../imG/br/Layer_10.png');
+    background-color:lightslategray;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
