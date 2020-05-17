@@ -582,7 +582,7 @@ padding: 0px 10px;
     
     font-size: 14px;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 30px;
     text-transform: uppercase;
     padding-bottom:5px;
     padding-top:10px;
@@ -595,14 +595,16 @@ padding: 0px 10px;
     font-family: "Roboto Slab";
     font-size: 12px;
     font-weight: 400;
-    line-height: 15px;
+    line-height: 20px;
+
+    
 }
 
 
 
 
 .wrapper__form{
-    margin-left: 8%;
+    margin-left: 5%;
    
     
 }
@@ -619,10 +621,11 @@ text-transform: uppercase;
 
 input[type]{
     border: 1px solid #555555;
-    width:250px;
-    height: 30px;
+    width:300px;
+    height: 45px;
     padding:10px 18px 10px 10px; 
-    margin:0px  5px 10px 5px;
+    margin-bottom: 20px;
+    margin-right:30px;
 
     
   }
@@ -644,12 +647,12 @@ text-transform: uppercase;
 
 textarea{
     border: 1px solid #555555;
-    width:515 px;
-    height: 70px;
-    padding:10px 10px 10px 10px;
+   width:632px;
+    height: 104px;
+    padding:10px 18px 10px 10px;
     font-size:12px ; 
     text-transform:uppercase;
-    width:75%;
+    
     
     
         
@@ -664,6 +667,7 @@ span{
 }
 
 .button{
+    margin-top: 20px;
     border:1px solid #555555;
     width:170px;
     height:44px;
@@ -673,8 +677,9 @@ span{
     line-height: 40px;
     text-transform: uppercase;
     text-align:center;
-    background-color: #dddddd;
+    background-color: #ffffff;
    transition: .5s;
+   color:#555555;
    
 }
 .button:hover{
