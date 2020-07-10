@@ -1,4 +1,6 @@
 $(function() {
+
+
     var header = $("#header"),
         introH = $("#intro").innerHeight(),
         scrollOffset = 0;
@@ -69,6 +71,10 @@ $(function() {
         slidesToShow: 1,
         slidesToScroll: 1
     });
+
+    //search
+
+   
      
 
 });

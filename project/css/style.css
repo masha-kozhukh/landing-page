@@ -180,6 +180,14 @@ hr{
     display: block;
 }
 
+/*nav-search*/
+
+
+/*/nav-seaech*/
+  
+
+
+
 /*button*/
 
 .btn{
@@ -691,12 +699,12 @@ hr{
 .reviews__item{
     min-height: 210px;
     position: relative;
-    padding-left:205px;
+    padding-left:255px;
 }
 
 
 .reviews__item--photo{
-    padding-left:255px;
+    padding-left:300px;
 }
 
 .reviews__icon--photo{
@@ -782,6 +790,11 @@ hr{
 
 /*gallery*/
 
+.section #work{
+    margin: 0px;
+    padding: 0px;
+}
+
 .gallery{
     display:flex;
     justify-content: space-between;
@@ -851,9 +864,7 @@ hr{
 /*section--clients*/
 
 
-.section--clients{
-    background-image: url(../img/design/background.jpg);
-}
+
 
 .clients{
     display:flex;
